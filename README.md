@@ -34,7 +34,23 @@ With all this we can say that the characteristics that seem to have the greatest
 4. SibSp: Family relations of siblings / spouses aboard the Titanic<BR>
 5. Parch: Family relations of parents / children aboard the Titanic<BR>
 
+## Random sample [Data](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)<br/>
 
+  First of all, he analyzes each variable separately, performing calculations and graphs to better understand everything he can extract from the database.
+
+He then separates the columns into categories and analyzes them separately. He uses relations with the rest of the columns to fill in the columns that have null values.
+
+He looks for correlation between the columns and discards those that are not necessary for the study.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
